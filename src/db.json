@@ -1,0 +1,11 @@
+{
+  "todos": [
+    { "id": 1, "text": "Todo 1", "isCompleted": true },
+    { "id": 2, "text": "Todo 2", "isCompleted": false },
+    { "id": 3, "text": "Todo 3", "isCompleted": false },
+    { "id": 4, "text": "Todo 4", "isCompleted": false },
+    { "id": 5, "text": "Todo 5", "isCompleted": false },
+    { "id": 6, "text": "Todo 6", "isCompleted": false },
+    { "id": 7, "text": "Todo 7", "isCompleted": false }
+  ]
+}
